@@ -9,8 +9,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ems</name>
-	<description>Employee Management System</description>
+	<name>test-ems</name>
+	<description>Test Employee Management System</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
